@@ -1,0 +1,36 @@
+{
+  "name": "multiplicami",
+  "version": "1.0.0",
+  "description": "Aid in helping elementary school kids to learn multiplicative process",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^1.5.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalitohg/multiplicami.git"
+  },
+  "keywords": [
+    "multiplicami",
+    "multiply",
+    "multiplication",
+    "elementary",
+    "school"
+  ],
+  "author": "Eduardo Hernandez Guerrero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalitohg/multiplicami/issues"
+  },
+  "homepage": "https://github.com/lalitohg/multiplicami#readme"
+}
